@@ -1,0 +1,14 @@
+L:\##PROGRAMOWANIE##\c#\#Robocze\mouseSpeed\MouseSpeed\bin\Release\MouseSpeed.exe.config
+L:\##PROGRAMOWANIE##\c#\#Robocze\mouseSpeed\MouseSpeed\bin\Release\MouseSpeed.exe
+L:\##PROGRAMOWANIE##\c#\#Robocze\mouseSpeed\MouseSpeed\obj\Release\MouseSpeed.MainForm.resources
+L:\##PROGRAMOWANIE##\c#\#Robocze\mouseSpeed\MouseSpeed\obj\Release\MouseSpeed.Rekordy.resources
+L:\##PROGRAMOWANIE##\c#\#Robocze\mouseSpeed\MouseSpeed\obj\Release\MouseSpeed.csproj.GenerateResource.Cache
+L:\##PROGRAMOWANIE##\c#\#Robocze\mouseSpeed\MouseSpeed\obj\Release\MouseSpeed.exe
+L:\##PROGRAMOWANIE##\c#\#Robocze\mouseSpeed\MouseSpeed\obj\Release\MouseSpeed.csprojResolveAssemblyReference.cache
+E:\Różne\Projekty\##PROGRAMOWANIE##\c#\#Projekty\mouseSpeed\MouseSpeed\bin\Release\MouseSpeed.exe.config
+E:\Różne\Projekty\##PROGRAMOWANIE##\c#\#Projekty\mouseSpeed\MouseSpeed\obj\Release\MouseSpeed.exe
+E:\Różne\Projekty\##PROGRAMOWANIE##\c#\#Projekty\mouseSpeed\MouseSpeed\bin\Release\MouseSpeed.exe
+E:\Różne\Projekty\##PROGRAMOWANIE##\c#\#Projekty\mouseSpeed\MouseSpeed\obj\Release\MouseSpeed.csprojResolveAssemblyReference.cache
+E:\Różne\Projekty\##PROGRAMOWANIE##\c#\#Projekty\mouseSpeed\MouseSpeed\obj\Release\MouseSpeed.MainForm.resources
+E:\Różne\Projekty\##PROGRAMOWANIE##\c#\#Projekty\mouseSpeed\MouseSpeed\obj\Release\MouseSpeed.Rekordy.resources
+E:\Różne\Projekty\##PROGRAMOWANIE##\c#\#Projekty\mouseSpeed\MouseSpeed\obj\Release\MouseSpeed.csproj.GenerateResource.Cache
